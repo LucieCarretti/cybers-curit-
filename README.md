@@ -1,4 +1,4 @@
-# cybersécurité
+# codeSafe-cybersecurity-blog
 EN
 This folder contains the content for my cybersecurity blog. The blog covers topics related to cybersecurity, including:
 
