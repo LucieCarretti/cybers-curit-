@@ -1,1 +1,1 @@
-# cybers-curit-
+# codeSafe-cybersecurity-blog
